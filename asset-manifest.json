@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/presentation-diego.io/static/css/main.5b9cfea3.css",
+    "main.js": "/presentation-diego.io/static/js/main.ba85739a.js",
+    "static/js/453.4ad7733c.chunk.js": "/presentation-diego.io/static/js/453.4ad7733c.chunk.js",
+    "static/media/yo.jpg": "/presentation-diego.io/static/media/yo.e14f683b9c41e9265a90.jpg",
+    "static/media/logo.svg": "/presentation-diego.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/presentation-diego.io/index.html",
+    "main.5b9cfea3.css.map": "/presentation-diego.io/static/css/main.5b9cfea3.css.map",
+    "main.ba85739a.js.map": "/presentation-diego.io/static/js/main.ba85739a.js.map",
+    "453.4ad7733c.chunk.js.map": "/presentation-diego.io/static/js/453.4ad7733c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b9cfea3.css",
+    "static/js/main.ba85739a.js"
+  ]
+}
