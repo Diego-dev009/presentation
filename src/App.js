@@ -21,6 +21,7 @@ function Curriculun(){
         <li>Deportes</li>
         <li>Videojuegos</li>
         <li>Series</li>
+        <li>Nuevos en Tendencias</li>
       </ul>
     </div>
   </div>
